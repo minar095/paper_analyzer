@@ -1,0 +1,5 @@
+{
+  "name": "Academic Paper Analyzer",
+  "description": "An AI-powered research assistant that analyzes and compares multiple academic papers from images. It provides a detailed comparison of methodologies, accuracy, and suggests future research directions and novel models for high-impact publications.",
+  "requestFramePermissions": []
+}
